@@ -1,3 +1,5 @@
+2024-12-07
+
 # Redirector
 
 Redirector is a Cloudflare Workers script that uses Workers KV to manage and perform domain redirections.
